@@ -1,21 +1,59 @@
 MIT License
 
-Copyright (c) 2026 Emanuel Schaaf
+# LICENSE.md  
+## NEO‑CRYSTAL‑CORE – Nutzungslizenz  
+### Deutsch & Englisch – Version 2026.X
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+---
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+# 🇩🇪 DEUTSCH  
+## Lizenzbedingungen
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Dieses Projekt, einschließlich aller Dokumente, Simulationen, Whitepaper, Beschreibungen und Forschungsdaten im Zusammenhang mit **NEO‑CRYSTAL‑CORE**, wird hiermit zur freien Nutzung freigegeben.
+
+Die Nutzung ist unter folgenden Bedingungen erlaubt:
+
+1. **Namensnennung**  
+   Jede Verwendung, Weitergabe, Veröffentlichung oder Integration des Materials muss eine klare Kennzeichnung der Urheberschaft enthalten:  
+   **„Entwickelt von Emanuel Schaaf und dem NEO‑CRYSTAL‑CORE Forschungsteam (2026)“**
+
+2. **Keine Entfernung der Herkunft**  
+   Die ursprüngliche Projektbezeichnung **NEO‑CRYSTAL‑CORE** sowie der Hinweis auf das Forschungsteam dürfen nicht entfernt oder verändert werden.
+
+3. **Freie wissenschaftliche Nutzung**  
+   Das Material darf für Forschung, Lehre, technische Entwicklung, Präsentationen, Veröffentlichungen und Simulationen verwendet werden.
+
+4. **Kommerzielle Nutzung erlaubt**  
+   Kommerzielle Nutzung ist gestattet, solange die Namensnennung gemäß Punkt 1 erfolgt.
+
+5. **Keine Haftung**  
+   Das Forschungsteam übernimmt keine Haftung für Schäden, die aus der Nutzung, Weiterentwicklung oder Implementierung des Materials entstehen.
+
+---
+
+# 🇬🇧 ENGLISH  
+## License Terms
+
+This project, including all documents, simulations, whitepapers, descriptions, and research data related to **NEO‑CRYSTAL‑CORE**, is hereby released for public use.
+
+Usage is permitted under the following conditions:
+
+1. **Attribution**  
+   Any use, distribution, publication, or integration of this material must clearly acknowledge the original creators:  
+   **“Developed by Emanuel Schaaf and the NEO‑CRYSTAL‑CORE Research Team (2026)”**
+
+2. **No removal of origin**  
+   The original project name **NEO‑CRYSTAL‑CORE** and the reference to the research team may not be removed or altered.
+
+3. **Free scientific use**  
+   The material may be used for research, education, technical development, presentations, publications, and simulations.
+
+4. **Commercial use allowed**  
+   Commercial use is permitted as long as attribution is provided according to point 1.
+
+5. **No liability**  
+   The research team assumes no liability for any damages resulting from the use, modification, or implementation of this material.
+
+---
+
+# END OF LICENSE
